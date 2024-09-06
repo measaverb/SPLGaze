@@ -1,1 +1,1 @@
-# SPLGaze
+# SplitGaze
